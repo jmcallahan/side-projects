@@ -1,11 +1,9 @@
 # Gmail Automation Suite
-
-**AI-Generated Script** | Human-prompted automation for syncing Gmail appointment emails to Google Calendar with automatic scheduling, link updates, and red color-coding for visibility. Claude AI was used for the script.
-Complete automation for your Gmail and Google Calendar.
-
 ## Context
 
-This automation was built to solve a specific personal workflow problem. The script was AI-generated (Claude) based on requirements I provided. It demonstrates effective use of automation tools and APIs to eliminate manual tasks, which is increasingly relevant in modern IT/security work where scripting and automation augment core security skills.
+This project was built using an AI-assisted workflow. I defined the problem, constraints, and desired behavior, then iteratively validated, tested, and refined the implementation.
+
+The value of this project lies in the system design, automation logic, and operational applicability; not in hand-writing every line of code.
 
 
 ## 📦 What's Included
